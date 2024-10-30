@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: darkolivegreen;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.in{
+    font-size: 25px;
+    margin: 20px;
+}
+.in img{
+    padding-top: 30px;
+    padding-left: 10%;
+    width: 80%;
+
+}
+.cast{
+    margin: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.cast img{
+    width: 30%;
+    height: 80%;
+}
